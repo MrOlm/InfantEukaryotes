@@ -3,6 +3,10 @@ Notebooks supporting the publication:
 
 *Strain-level overlap between infant and hospital fungal microbiomes revealed through de novo assembly of eukaryotic genomes from metagenomes*
 
+# Genomes
+
+All genomes reported in Table 1. are available in the genomes folder (files ending in `.fasta`) along with predicted proteins (files ending in `.faa`). More information on genomes in available in the file `genomeInfo.csv`
+
 # Supplemental Tables and Figures 
 
 Supplemental Figure S1. Effect of coverage on variant frequency determination as assessed through simulation of metagenomic reads.
