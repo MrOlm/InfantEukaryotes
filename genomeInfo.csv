@@ -1,0 +1,15 @@
+Source,Genome,Comp. (%),Length (bp),N50 (bp),Coverage,genome_basename
+Infant gut,Purpurocillium lilaciunum S2_018_006G1,98.4,35688710,422361,20.88842647924353,Purpurocillium_lilaciunum_S2_018_006G1
+Infant gut,Clavispora lusitaniae N2_070_000G1,95.8,11907650,89311,18.464286995347365,Clavispora_lusitaniae_N2_070_000G1
+Infant gut,Candida parapsilosis N3_182_000G1,96.7,12563647,65710,182.592729132254,Candida_parapsilosis_N3_182_000G1
+Infant gut,Trichosporon asahii N5_275_008G1,90.1,23419590,32912,13.657484675907881,Trichosporon_asahii_N5_275_008G1
+Infant gut,Candida albicans SP_CRL_000G1,91.1,12561678,22840,30.49211445043821,Candida_albicans_SP_CRL_000G1
+NICU room,Purpurocillium lilaciunum S2_003_000R1,98.4,35724498,520486,67.96266583325409,Purpurocillium_lilaciunum_S2_003_000R1
+NICU room,Malassezia sp. S2_018_000R1,72.6,6457898,4912,18.504415124723533,Malassezia_sp._S2_018_000R1
+NICU sink,Nectria haematococca S2_018_000R2,96.7,44952822,24418,10.296410964543982,Nectria_haematococca_S2_018_000R2
+NICU sink,Candida parapsilosis S2_005_002R2,92.8,11573959,14507,9.814161141914216,Candida_parapsilosis_S2_005_002R2
+NICU sink,Rhabditida S2_005_001R2,74.9,50505025,8214,8.08438506796687,Rhabditida_S2_005_001R2
+NICU sink,Nectria haematococca S2_009_000R2,73.6,31143909,8000,7.2358090309355045,Nectria_haematococca_S2_009_000R2
+NICU sink,Exophiala sp. S2_009_000R2,75.9,24670482,7386,7.262618921010738,Exophiala_sp._S2_009_000R2
+NICU sink,Diptera S2_005_002R2,52.5,43769201,6834,10.384389835224669,Diptera_S2_005_002R2
+NICU sink,Verruconis sp. S2_005_001R2,52.8,15639153,5112,6.302617932570629,Verruconis_sp._S2_005_001R2
