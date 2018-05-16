@@ -1,6 +1,8 @@
 # InfantEukaryotes
 Notebooks supporting the publication "Strain-level overlap between infant and hospital fungal microbiomes revealed through de novo assembly of eukaryotic genomes from metagenomes"
 
+# Supplemental Tables and Figures 
+
 Supplemental Figure S1. Effect of coverage on variant frequency determination as assessed through simulation of metagenomic reads.
 
 Supplemental Figure S2. Raw variant frequency graphs used to determine ploidy of all de novo assembled genomes.
