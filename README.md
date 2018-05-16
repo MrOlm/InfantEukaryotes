@@ -11,17 +11,17 @@ All genomes reported in Table 1. are available in the genomes folder (files endi
 
 # Supplemental Tables and Figures 
 
-Supplemental Figure S1. Effect of coverage on variant frequency determination as assessed through simulation of metagenomic reads.
+Supplemental Figure S1. Dendrogram of reference and de novo assembled C. parapsilosis genomes based on genome-wide average nucleotide identity (ANI). 
 
 Supplemental Figure S2. Raw variant frequency graphs used to determine ploidy of all de novo assembled genomes.
 
-Supplemental Figure S3. Dendrogram of reference and de novo assembled C. parapsilosis genomes based on genome-wide average nucleotide identity (ANI). 
+Supplemental Figure S3. Determination of aneuploidy for all de novo assembled genomes.
 
-Supplemental Figure S4. Evaluation of relative abundance, genome length, and sequencing depth needed to achieve 8x sequencing coverage.
+Supplemental Figure S4. Alternative determination of aneuploidy for genomes with high quality reference genomes.
 
-Supplemental Figure S5. Determination of aneuploidy for all de novo assembled genomes.
+Supplemental Figure S5. Effect of coverage on variant frequency determination as assessed through simulation of metagenomic reads.
 
-Supplemental Figure S6. Alternative determination of aneuploidy for genomes with high quality reference genomes.
+Supplemental Figure S6. Evaluation of relative abundance, genome length, and sequencing depth needed to achieve 8x sequencing coverage.
 
 Supplemental Table S1. Sequencing metadata for all infant and room metagenomic samples
 
