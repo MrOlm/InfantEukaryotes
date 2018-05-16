@@ -1,0 +1,13 @@
+explVar,name,p,type,q
+CatSampleMetadata$categorical$podA,CatSampleMetadata,1.0,categorical,1.0
+CatSampleMetadata$categorical$podB,CatSampleMetadata,0.46258319919294444,categorical,0.6836945969329091
+CatSampleMetadata$categorical$podD,CatSampleMetadata,0.2790986678824981,categorical,0.4784548592271396
+CatSampleMetadata$categorical$recent_ab,CatSampleMetadata,0.00038634186607023946,categorical,0.002293348754994867
+SampleMetadata$continuous$DOL,SampleMetadata,0.015398817880077475,continuous,0.03677553414034712
+SampleMetadata$continuous$weight,SampleMetadata,0.5940132165841777,continuous,0.7128158599010133
+SampleMetadata$continuous$gestationalAge,SampleMetadata,0.9696290561303846,continuous,1.0
+SampleMetadata$continuous$assemblyCompleteness,SampleMetadata,0.004999631371681523,continuous,0.01499889411504457
+SampleMetadata$continuous$seqDepth,SampleMetadata,0.0005733371887487168,continuous,0.002293348754994867
+SampleMetadata$continuous$daysSinceAb,SampleMetadata,0.0001506188834037875,continuous,0.00180742660084545
+BacterialNCBITax$continuous$pp_pcov|Firmicutes,BacterialNCBITax,0.5127709476996819,continuous,0.6836945969329091
+BacterialNCBITax$continuous$pp_pcov|Proteobacteria,BacterialNCBITax,0.01838776707017356,continuous,0.03677553414034712
