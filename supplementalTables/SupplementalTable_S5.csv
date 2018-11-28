@@ -1,0 +1,14 @@
+explVar,name,p,type,q
+CatSampleMetadata$categorical$podC,CatSampleMetadata,0.4100043762914112,categorical,0.6045054412619609
+CatInfSampleMetadata$categorical$firstPodC,CatInfSampleMetadata,0.1717029316541901,categorical,0.3720230185840785
+CatInfSampleMetadata$categorical$genderF,CatInfSampleMetadata,0.4185037670275114,categorical,0.6045054412619609
+CatInfSampleMetadata$categorical$birthModeVaginal,CatInfSampleMetadata,0.7776924346840701,categorical,0.7776924346840701
+SampleMetadata$continuous$DOL,SampleMetadata,6.561105930871081e-05,continuous,0.0004264718855066203
+SampleMetadata$continuous$weight,SampleMetadata,0.23616649460248507,continuous,0.4385949185474723
+SampleMetadata$continuous$gestationalAge,SampleMetadata,0.7494738695438972,continuous,0.7776924346840701
+SampleMetadata$continuous$assemblyCompleteness,SampleMetadata,0.5710139189213528,continuous,0.6748346314525079
+SampleMetadata$continuous$seqDepth,SampleMetadata,0.13259261933018696,continuous,0.35169096601353783
+SampleMetadata$continuous$daysSinceAb,SampleMetadata,5.551926132065833e-06,continuous,7.217503971685583e-05
+BacterialNCBITax$continuous$pp_pcov|Actinobacteria,BacterialNCBITax,0.516359419332316,continuous,0.6712672451320109
+BacterialNCBITax$continuous$pp_pcov|Firmicutes,BacterialNCBITax,0.135265756159053,continuous,0.35169096601353783
+BacterialNCBITax$continuous$pp_pcov|Proteobacteria,BacterialNCBITax,0.12736927000723958,continuous,0.35169096601353783
