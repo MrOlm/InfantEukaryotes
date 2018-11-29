@@ -15,6 +15,4 @@ Captions are available in the supplementalFigures directory, in the file Supplem
 
 # Jupyter Notebooks
 
-Supplemental Table S3 = SampleMetadata_v1.csv
-
-Supplemental Table S4 = MappingListGamma_genomeCoverage_v1.csv
+Notebooks are messy but directly show how the data was processed. Please don't hesitate to contact the authors of the study with any questions (mattolm at berkeley dot edu and patrickwest at berkeley dot edu)
