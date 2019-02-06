@@ -1,9 +1,7 @@
 # InfantEukaryotes
 Notebooks supporting the publication: 
 
-*Strain-level overlap between infant and hospital fungal microbiomes revealed through de novo assembly of eukaryotic genomes from metagenomes*
-
-[Manuscript available on bioRxiv](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+*Genome-resolved metagenomics of eukaryotic populations during early colonization of premature infants and in hospital rooms*
 
 # Genomes
 
